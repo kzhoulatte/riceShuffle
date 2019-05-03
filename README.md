@@ -1,7 +1,7 @@
 # riceShuffle
 Rice shuffle with inspired ideas. 
 
-Requirements: 
+### Requirements: 
   1. Python;
   2. Java;
   3. Processing;
